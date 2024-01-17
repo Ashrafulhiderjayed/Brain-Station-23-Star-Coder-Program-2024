@@ -109,4 +109,3 @@
 **31. In the current semester schedule, with today being Friday, the data structure exam is scheduled for tomorrow, and the algorithm exam is set for the day after tomorrow. If the database exam was conducted 4 days before the algorithm exam, on which day did the database exam take place?**
     - Ans: Tuesday
 
-Feel free to use this formatted list in your README.md file on GitHub!
