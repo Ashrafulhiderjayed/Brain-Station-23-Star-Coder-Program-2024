@@ -1,7 +1,5 @@
 # Brain-Station-23-Star-Coder-Program-2024
 
-Certainly! Here's the list of questions and answers formatted for a README.md file on GitHub:
-
 **1. primary objective of the planning phase in the software development life cycle?**
    - Ans: To define the scope, schedule, and resources for the project.
 
